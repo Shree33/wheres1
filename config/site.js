@@ -3,8 +3,8 @@ module.exports = {
   title: 'WheresTheCrowd', // Navigation and Site Title
   titleAlt: 'WheresTheCrowd', // Title for JSONLD
   description: 'Find the crowd tonight',
-  url: 'https://wheresthecrowd.com', // Domain of your site. No trailing slash!
-  siteUrl: 'https://wheresthecrowd.com', // url + pathPrefix
+  url: 'https://shree33.github.io/wheres-the-crowd/', // Domain of your site. No trailing slash!
+  siteUrl: 'https://shree33.github.io/wheres-the-crowd/', // url + pathPrefix
   siteLanguage: 'en', // Language Tag on <html> element
   logo: 'static/logo/logo.png', // Used for SEO
   banner: 'static/logo/banner.png',

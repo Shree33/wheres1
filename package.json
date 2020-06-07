@@ -20,8 +20,7 @@
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",
     "start": "npm run develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-
+    "deploy": "npm run build && node ./scripts/deploy-github"
   },
   "dependencies": {
     "@babel/core": "^7.6.0",
@@ -29,7 +28,7 @@
     "@emotion/styled": "^10.0.17",
     "babel-plugin-emotion": "^10.0.17",
     "emotion-theming": "^10.0.17",
-    "gatsby": "^2.15.9",
+    "gatsby": "^2.23.1",
     "gatsby-image": "^2.2.17",
     "gatsby-plugin-catch-links": "^2.1.8",
     "gatsby-plugin-emotion": "^4.1.5",
@@ -65,7 +64,7 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
     "gh-pages": "^3.0.0",
-    "lighthouse": "^3.2.1",
+    "lighthouse": "^6.0.0",
     "prettier": "^1.18.2"
   },
   "keywords": [

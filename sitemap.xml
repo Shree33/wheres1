@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/Central</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/GoodForGroups</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/Trivia</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/frontend</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/news</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/other</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/tutorial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/webpack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/post-two</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/post-three</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/post-four</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/post-five</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/post-six</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/post-one</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/events/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wheresthecrowd.com/wheres-the-crowd/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

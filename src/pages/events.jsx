@@ -2,17 +2,17 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
-import { Header, BlogList } from 'components';
+import { Header, EventList } from 'components';
 import { Layout } from 'layouts';
 
-const Blog = ({ data }) => {
+const Event = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Blog Page'} />
-      <Header title="Blog Page">Gatsby Tutorial Starter</Header>
+      <Helmet title={'Wheres The Crowd'} />
+      <Header title="Event Page">Where's The Crowd</Header>
       {edges.map(({ node }) => (
-        <BlogList
+        <EventList
           key={node.id}
           cover={node.frontmatter.cover.childImageSharp.fluid}
           path={node.frontmatter.path}
@@ -26,9 +26,9 @@ const Blog = ({ data }) => {
   );
 };
 
-export default Blog;
+export default Event;
 
-Blog.propTypes = {
+Event.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.arrayOf(

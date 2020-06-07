@@ -1,6 +1,7 @@
 const config = require('./config/site');
 
 module.exports = {
+  pathPrefix:"/wheres-the-crowd", 
   siteMetadata: {
     ...config,
   },

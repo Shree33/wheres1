@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{PcuZ:function(t,e,a){"use strict";a.r(e);var n=a("qKvR"),c=(a("q1tI"),a("tCqT")),u=a("TiLl");e.default=function(t){var e=t.pageContext.tags;return Object(n.d)(c.d,null,Object(n.d)(u.b,{title:"Tags Page"},"Search By Tag"),Object(n.d)(c.a,null,Object(n.d)(u.e,{list:e})))}}}]);
+//# sourceMappingURL=component---src-pages-tags-jsx-af8dc4733fdd4e8ac7ee.js.map
